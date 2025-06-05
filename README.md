@@ -1,4 +1,4 @@
-# Word Matching Game (C + iGraphics)
+# Word Matching Game (C + Cpp + iGraphics)
 
 This is a **word matching game** developed in **C** using the **iGraphics** library. The main objective of the game is to let users match words with their correct **synonyms** in an interactive visual interface.
 
