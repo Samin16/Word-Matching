@@ -1,0 +1,21 @@
+Samin 100.00
+Rafid 100.00
+Rahim 100.00
+Samin 100.00
+Rubayet 100.00
+Samin 90.91
+Rahim 83.33
+ 90.91
+nafis 0.000000 0.000000 0.000000
+nafis 47.62
+nafis 100.00
+ 50.00
+ 100.00
+Samin 100.00
+Samin 90.91
+Samin Yasar 111.11
+Samin       83.33
+Samin       83.33
+Samin       1.#J
+samin Yasar 0.000000 0.000000 0.000000
+samin Yasar 83.33

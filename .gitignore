@@ -1,0 +1,23 @@
+# # Compiled object files
+# *.o
+
+# # Executable files
+# *.exe
+# *.out
+
+# # Debug/temporary files
+# *.log
+# *.tmp
+
+# # OS-generated files
+# .DS_Store
+# Thumbs.db
+
+# # VS Code settings (optional, personal preference)
+# .vscode/
+
+# # Backup files (common in some editors)
+# *~
+
+
+.vscode/extensions/

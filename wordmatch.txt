@@ -1,0 +1,8 @@
+1.Home.Residence
+2.Start.Begin
+3.Pause.Stop
+4.Look.See
+5.Road.Street
+6.Load.Weight
+7.End.Finish
+8.Make.Create
